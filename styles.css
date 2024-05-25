@@ -1,0 +1,11 @@
+ header{
+           
+            background-color: chocolate;
+          
+            justify-content: center;
+            align-items: center;
+        }
+       section{
+        background-color: rgb(222, 222, 147);
+        padding: 12px;
+       }
